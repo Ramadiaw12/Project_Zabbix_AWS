@@ -134,14 +134,14 @@ Documentation technique
 
 Scripts d'automatisation
 
-👥 Équipe Projet
-Étudiant : [NOM Prénom]
+👥
+Étudiant : DIAWANE Ramatoulaye
 
 Encadrant : Prof. Azeddine KHIAT
 
 Année Universitaire : 2025/2026
 
-Filière : [Nom de la filière]
+Filière : IIIA
 
 🔗 Ressources
 Dépôt GitHub : https://github.com/Ramadiaw12/Project_Zabbix_AWS
